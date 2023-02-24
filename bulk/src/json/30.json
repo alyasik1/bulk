@@ -1,0 +1,47 @@
+{
+  "name": "NoMeow #30",
+  "description": "NoMeow is a collection of 9,999 unique well—designed 2D characters built on the Ethereum blockchain.\nTelegram https://t.me/nome0w\nTwitter  https://twitter.com/nomeownft\nInstagram https://www.instagram.com/nomeow_nft",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "dna": "f07bfa20a6d47a22fe72a26b2bdf5b6e9e358396",
+  "edition": 30,
+  "date": 1672098735886,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Demon_Mushrooms_P"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "GreenBomber"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal_Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Aviators"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold_Cross"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Green_Dreads"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
